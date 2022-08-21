@@ -2,7 +2,7 @@
 # Building Websites With HTML, CSS : Getting Started
 
 ## Project description
-this browser application interface allows user enroll different computer courses and watch free video contain. 
+this browser application single page interface allows user enroll different computer courses and watch free video contain. the interface also allows the about discription and a contact us from where user sumbit their information like user name ,mobile number , email address and user concern.
 
 ## Tools
 
