@@ -1,4 +1,4 @@
-![Watch Now](./img/Design.jpg)
+![Watch Now](./img/design.png)
 # Building Websites With HTML, CSS : Getting Started
 
 ## Tools
